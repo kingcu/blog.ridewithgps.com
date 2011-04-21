@@ -1,0 +1,18 @@
+#header {
+  border-bottom: 1px solid #CCC;
+}
+
+#content {
+  width: 1000px;
+  margin: 10px auto 10px auto;
+}
+
+#posts {
+  float: left;
+  width: 700px;
+}
+
+#sidebar {
+  float: right;
+  width: 200px;
+}

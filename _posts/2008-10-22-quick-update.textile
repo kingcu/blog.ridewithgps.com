@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Quick update
+disqus_id: /2008/10/22/quick-update
+categories: 
+  - ridewithgps.com
+---
+
+
+We have been silently updating features on the site over the past few months, making it faster, and setting it up to support some really cool features we are working on, but also breaking some things in the process.  We just fixed a couple of these:
+              <ul>
+                <li>Uploading photos for gear works again</li>
+                <li>Uploading GPS data works again</li>
+              </ul>
+              As usual, if you see any bugs, please use the Ideas? form in the top right.  Thanks!
+
+

@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Development continues! 
+disqus_id: /2008/1/23/development-continues
+categories: 
+  - ridewithgps.com
+---
+
+
+<ul>
+                  <li><b>7:07 PM:</b> Added link back to a photo's parent (gear, profile, group etc) when viewing a photo</li>
+                  <li><b>6:30 PM:</b> Added the Browse Routes page!</li>
+
+                  <li><b>5:37 PM:</b> Drawing routes is cleaner and less bug-prone now.  Drawing very large (>300 miles) routes is still buggy, and it is being worked on.</li>
+                  <li><b>3:55 PM:</b> Was there a problem fetching elevation data for your route? Edit the route, and you'll see a checkbox to re-fetch the elevation data and fix this.</li>
+                  <li><b>2:30 PM:</b> User searching is in place now, just click browse users and start typing in the name of who you're looking for.
+                  </li>
+          
+                  
+                  <li>Various minor bugs have been quashed</li>
+
+                </ul>
+
+

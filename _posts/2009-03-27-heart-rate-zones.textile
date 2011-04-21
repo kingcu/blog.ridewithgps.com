@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Heart rate zones
+categories: 
+  - ridewithgps.com
+---
+
+
+<p>We have introduced a couple new metrics recently, speed and heart rate zones.  Max and average speed is shown when viewing trips, and you can toggle a speed histogram on the map with a checkbox at the top.  I just now finished up the basics of heart rate zones.</p>
+<img src="/images/hr_zones.png" />
+<p>Setting up heart rate zones is a really easy process, and once you do it you'll see your heart rate zone durations in your Activity Log, and when viewing your trips.  You can set them up by clicking on "Set up heart rate zones" next to the Heart rate checkbox in your Activity Log.</p>
+<p>You can also toggle what information you're looking at in the Activity Log now, by checking and unchecking the options.</p>
+<p>If you have an opinion about the Activity Log, our use of heart rate data, or what more should be done, please leave a comment here or get in touch with us.</p>
+

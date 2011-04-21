@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Works in IE6 and IE7 again
+disqus_id: /2009/3/13/works-in-ie6-and-ie7-again
+categories: 
+  []
+---
+
+
+The maps were broken in IE6 and IE7 for the last few days, so if you couldn't see any maps that problem has been fixed.  
+

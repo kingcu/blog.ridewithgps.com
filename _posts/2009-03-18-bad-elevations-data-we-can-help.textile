@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: Bad elevations data?  We can help!
+disqus_id: /2009/3/18/bad-elevations-data-we-can-help
+categories: 
+  - ridewithgps.com
+---
+
+
+One of the nice things about the design of Ride With GPS from a technical standpoint, is Zack and I have layed a very solid foundation for the site.  As a result, adding additional features has become relatively simple.  Today we were notified by a user that his elevation data seemed off on his uploaded route.  After a brief look at his TCX file (TCX is Garmin's proprietary log format), it appeared to be his GPS unit rather than how we handle the data.  So, after a few minutes of coding, any route or trip can now have its elevation data reloaded from our (accurate to 1 meter) local elevation dataset!  This new feature is simple to use.
+
+First off, you  might want to read some informative discussion regarding how bike GPS units record their elevation data, and possible reasons discrepancies between our calculations and your bike computers display might exist.
+
+  "blog.mtbguru.com":http://blog.mtbguru.com/2006/12/17/elevation-accuracy/
+
+To refetch elevations for any route or trip, all you need to do is access the edit page of the route or trip.  From the previewer on your profile page, you can edit a route or trip by clicking the *(edit)* link next to the relevant entry in the previewer.  From the route or trip view page, the **Edit Route** link is located on the right side of the map, below the route information.  You must be logged in to see these links.
+
+On the edit page, you would just check the box at the bottom of the form indicating the elevation data is bad.  Hit the update button to submit the form, and your elevation data will be updated.  Your profile should show a notification of success when the process is finished (in about a second).  If there is any sort of issue, an error notification will show instead.  Alert us of any errors and we will be happy to resolve them as always.
+
+Thanks again for the feature requests/bug reports.  These are extremely helpful in our ongoing work to make this site the best out there.  Keep them coming!
+

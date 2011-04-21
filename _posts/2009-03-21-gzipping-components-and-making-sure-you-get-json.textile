@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Gzipping components, including JSON
+disqus_id: /2009/3/21/gzipping-components-and-making-sure-you-get-json
+categories: 
+  - phusion passenger
+  - ruby on rails
+---
+
+
+<p>In the vast majority of situations, you'll want to do the little bit of extra processing to gzip components before sending them to the client.  For anything text-based, the bandwidth saved is huge.  We have been gzipping our CSS, Javascript, and HTML, but I noticed recently that we are not gzipping JSON.  For just a 30 mile trip like <a href="http://ridewithgps.com/trips/166" target="_blank">this one I took on Monday</a>, the JSON that gets passed to the client is about 120K.  My client showed the JSON content type as application/json, but when I added that to my deflate.conf, it still was not gzipping JSON.  After adding in text/json as well, it appears to be working as planned.  Now my 120K worth of JSON is only 20K transferred, much better!</p>
+<p>We're using Apache 2 on Debian, and getting gzip enabled is as simple as symlinking /etc/apache2/mods-available/deflate* to /etc/apache2/mods-enabled.  After doing that, modify the deflate.conf file to look like this:</p>
+<div style="width:100%;overflow:auto"><pre>
+&lt;IfModule mod_deflate.c&gt;
+	AddOutputFilterByType DEFLATE text/html text/css text/plain text/xml application/x-javascript text/json application/json
+	BrowserMatch ^Mozilla/4 gzip-only-text/html
+	BrowserMatch ^Mozilla/4\.0[678] no-gzip
+	BrowserMatch \bMSIE &lt;img src="no-gzip" alt="" /&gt;gzip-only-text/html
+&lt;/IfModule&gt;
+</pre>
+</div>
+
+

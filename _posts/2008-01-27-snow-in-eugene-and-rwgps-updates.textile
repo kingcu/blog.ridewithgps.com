@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Snow in Eugene and RWGPS updates
+disqus_id: /2008/1/27/snow-in-eugene-and-rwgps-updates
+categories: 
+  - ridewithgps.com
+---
+
+
+Looks like we finally received some cool weather here in Eugene, which made for a nice day of coding.  Here are some of the updates:
+                  <br />
+
+                  <ul>
+                    
+                    
+                    <li>You can specify what routes are for (riding a motorcycle, mountain biking, hiking, running, cycling, etc).  Edit your routes and check off what they are for! This will help people find them.</li>
+                    
+                    <li>No more horizontal scrollbar for most users that were experiencing this.</li>
+                    
+                    <li>Improved efficiency (which translates to faster browsing) throughout the site.</li>
+                    
+                    <li>Added a search by zip code with distance threshold on browse routes page.</li>
+                </ul>
+
+

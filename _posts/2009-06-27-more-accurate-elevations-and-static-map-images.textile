@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: More Accurate Elevations AND Static Map Images
+categories: 
+  - ridewithgps.com
+---
+
+
+Over the last two weeks, I have been hard at work doing two things: making elevations more accurate, as well as providing static map images that can be embedded into forums.  After some hard work, I am pleased to say that both goals have been accomplished!  There were multiple reasons for inaccurate gain/loss figures for both uploaded and mapped rides.  A more detailed description of the problem and solution can be found at "http://cullenking.com":http://cullenking.com and I will let you read that separately, since it involves a decent amount of math :)
+
+Static map images are now available for any route or trip on the site.  There are currently two default sizes: a 100x100 pixel thumbnail, as well as a 480x480 pixel image.  They are stored as GIF's, and can be accessed by navigating to any route/trip view page and copy/pasting the link that is provided to the right of the map.  The map tiles are provided by the "openstreetmap":http://openstreetmap.org project, which is basically the wikipedia of the mapping world.  We are sketching out plans for custom map image sizes, but will likely reserve that feature for premium accounts.
+
+Here is an example of a nice trip in Lake Oswego:
+
+!http://ridewithgps.com/trips/94/full.gif!
+
+A more detailed post will follow when I have a spare moment.  Just wanted to get the word out for now!
+

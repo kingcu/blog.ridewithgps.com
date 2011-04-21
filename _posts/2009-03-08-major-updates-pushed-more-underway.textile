@@ -1,0 +1,35 @@
+--- 
+layout: post
+title: Major updates pushed, more underway
+disqus_id: /2009/3/8/major-updates-pushed-more-underway
+categories: 
+  []
+---
+
+
+<p>We just pushed out some pretty major updates, with many more underway.  We are developing at a furious pace now and you will see this site improve dramatically as the weeks go by.  Here is a rundown of some of the important changes that have taken place recently:</p>
+<ul>
+<li>Routes and trips have been reorganized.  Trips essentially *are* routes now, and the process of adding, editing, and viewing routes and trips has been redone.</li>
+<li>Photos are easier to upload with our new uploading tool, and it is easier and faster to browse through photos.</li>
+<li>The front page has been completely redone with more information.</li>
+<li>Nearly all content is now accessible to non-logged in users.  </li>
+<li>We have now completely switched to Flash-based maps.  This means your browsing experience is considerably faster now.</li>
+<li>The Browse Routes page has more advanced searching, so you can search by route length and elevation gain and loss.</li>
+<li>Many pages have been redesigned subtly or in a major way.</li>
+<li>Everything now works in IE 6 and IE 7!</li>
+</ul>
+<p>Additionally, a lot more work has been done that we are still testing.  Here are a few things to look forward to in the next week:</p>
+<ul>
+<li>New and improved route and trip viewer.  More information, more analytical power.</li>
+<li>A powerful notification system that delivers relevant site information to your page.</li>
+<li>The ability to mark routes, trips, gear, and users as favorites so you can see them whenever you want from your page.</li>
+</ul>
+<p>We are pushing hard to turn this site into the best social route sharing site on the internet.  If you like what we are doing, now is the time to get involved! Email us at ridewithgps@gmail.com if you:
+</p>
+<ul><li>Have a vested interest in using the site, and have feature ideas that would make the site more useful to you.</li>
+<li>Are interested in discussing a partnership or advertising relationship.</li>
+<li>Would like to discuss promotional opportunities.</li>
+<li>Have anything you want to talk to us about regarding Ride with GPS.</li>
+</ul>
+<p>Finally, thanks for checking out our blog.  As we continue development we will be keeping this blog updated regularly.  In addition to anything else, we hope to begin posting in more detail about the software and technology behind Ride with GPS, so stay tuned!</p>
+

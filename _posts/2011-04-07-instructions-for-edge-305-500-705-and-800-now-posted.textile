@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Instructions for Edge 305, 500, 705 and 800 now posted
+disqus_id: /2011/4/7/instructions-for-edge-305-500-705-and-800-now-posted
+categories: 
+  - ridewithgps.com
+---
+
+
+I finally got around to writing up some detailed information about how to use a Garmin Edge series GPS bike computer for navigating a route plotted using our "bike route planner":http://ridewithgps.com/routes/new - I compiled help articles for each of the popular Edge series bike computers.  You can now understand which file format is the best for turn by turn navigation on your particular GPS unit.
+
+* Instructions for
+** "Edge 305":http://ridewithgps.com/edge_305
+** "Edge 500":http://ridewithgps.com/edge_500
+** "Edge 605":http://ridewithgps.com/edge_705
+** "Edge 705":http://ridewithgps.com/edge_705
+** "Edge 800":http://ridewithgps.com/edge_800
+
+The Edge 305/500 articles are works in progress.  I will continue to improve the information in the articles with more detailed instructions, including pictures, in the coming weeks.
+
+Additionally, if you don't have City Navigator maps for your 605/705/800, I have provided instructions for downloading the excellent Open Street Map files for use as the base map on these devices.  Enjoy!
+

@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: Oregon Daily Emerald releases article and video
+disqus_id: /2008/1/15/oregon-daily-emerald-releases-article-and-video
+categories: 
+  - ridewithgps.com
+---
+
+
+A big thank you to the Oregon Daily Emerald for their excellent article on our project.  We enthusiastically encourage any new users that were tipped off about us through the paper to give the Emerald your positive feedback on their story.  The full text of the article can be found at the following link:
+                <div style="margin: 10px 0 0 20px">
+                  <a href="http://media.www.dailyemerald.com/media/storage/paper859/news/2008/01/15/Multimedia/Mapping.A.Passion-3152516.shtml" target="_blank">The Daily Emerald - Video</a><br />
+
+                  <a href="http://media.www.dailyemerald.com/media/storage/paper859/news/2008/01/15/News/From-A.Different.Vista-3152498.shtml" target="_blank">The Daily Emerald - Full Article</a></div>
+
+

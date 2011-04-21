@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: More publicity!
+disqus_id: /2008/1/25/more-publicity
+categories: 
+  - ridewithgps.com
+---
+
+
+KOIN channel 6 news picked up the story from KVAL and ran the story at 6 and 11pm last night.  Thanks Lisa!
+                  <br />
+
+                  <ul>
+                    <li><b>8:00 PM:</b> Fixed quotations in live conversations, now those messages don't get lost.  Many minor aesthetic improvements throughout the site.  Added paged results for your inbox, as well as when viewing conversation messages.  Fixed incorrect reporting of number of friends for a user.</li>
+                </ul>
+
+

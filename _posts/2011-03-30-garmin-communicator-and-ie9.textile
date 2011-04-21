@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Garmin Communicator and IE9
+disqus_id: /2011/3/30/garmin-communicator-and-ie9
+categories: 
+  - ridewithgps.com
+---
+
+
+With the recent release of IE9, I soon found out that users attempting to use Garmin Sync with IE9 were having trouble.  We have implemented a fix, and everything seems to be working well now.  Sorry for the hassle, but thanks for letting us know!
+

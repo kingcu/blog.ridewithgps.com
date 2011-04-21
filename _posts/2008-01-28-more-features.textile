@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: More features!
+disqus_id: /2008/1/28/more-features
+categories: 
+  - ridewithgps.com
+---
+
+
+Some additions to our work done yesterday, which will greatly improve gear and trip searchability.  You can now decide what type of gear you are entering.  You have two choices: methods of transportation, and accessories.  Transportation types allow us to define what your planned route is good for, as well as to say what you took on a trip.  Now you can search routes for ones that are compatible with your preferred activity.  You can also input accessories such as GPS units, safety gear, running/hiking shoes etc, that can be taken on a trip in addition to your method of transportation.
+                  <br /><br />
+                  <b>We introduced a temporary bug:</b> In our work towards efficiency yesterday, we accidentally broke your ability to add photos.  We are working on fixing this issue, and will have it back shortly!
+
+

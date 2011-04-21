@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Import From Map My Ride
+disqus_id: /2009/3/18/import-from-map-my-ride
+categories: 
+  - ridewithgps.com
+---
+
+
+Given that one of the goals for Ride With GPS is to become the most used route and workout planner available,  we fully expect to see many people migrating from other services to RWGPS.  As a result, we figured it might be convenient for our users to automatically import the routes stored under their Map My Ride (MMR) account, without going through the hassle of exporting each route from MMR then uploading them one by one to our site.  With that in mind, I took a little time to cook up this simple importer.  The UI will be cleaned up here soon, and we will add support for other sites as they are requested by our users.
+
+In order to use the importer, from your profile page select the **"Import From..."** link located above the main body of the page.  This will bring you to some simple instructions, with a field for your MMR username and password.  We do not store this information; it is only used for this one request.  Any additional requests will require you to re-input your password.
+
+After clicking **"Start!"**, the request will be generated and you will be redirected to your profile page.  If everything goes well, the routes will be imported to your profile.  Upon hitting refresh you should see feed items indicating success.  If we run into any issues, a feed item will be generated notifying you of the issue.  If any problems persist, we can always be contacted at ridewithgps@gmail.com.
+
+Thanks for using our site!
+

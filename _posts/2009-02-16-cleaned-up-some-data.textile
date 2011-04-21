@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Cleaned up some data
+disqus_id: /2009/2/16/cleaned-up-some-data
+categories: 
+  []
+---
+
+
+Zack and I have been spending some time bug fixing, in preparation for a new release.  Some of these bugs were in the mapping code, which caused a few routes to have bad elevations.  Zack cooked up a cool task that went through and found all faulty elevation points, updating with the correct elevations.  This fixed 26 routes!  There are many more bugs we have been squishing, and we will provide a more detailed announcement when we are nearing an actual "release".
+

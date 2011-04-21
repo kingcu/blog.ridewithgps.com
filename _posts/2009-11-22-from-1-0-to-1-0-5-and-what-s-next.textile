@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: From 1.0 to 1.0.5, and What's Next
+disqus_id: /2009/11/22/from-1-0-to-1-0-5-and-what-s-next
+categories: 
+  - ridewithgps.com
+---
+
+
+Since our 1.0 release, Ride with GPS has been moving forward rapidly.  We have received hundreds of suggestions and have been working hard to address bugs, improve usability, and build out important features.  We opened up an application to join our beta program last month, and were pleased to receive several hundred submissions.  This program will begin on December 1st, and we will be rolling features out to small groups of users in order to refine our upcoming training features quickly.
+
+We have begun having scheduled releases in order to better handle suggestions, and more accurately let you know when things will be available.  This is helping us stay organized and deliver features at predictable times.  If you want to see our progress, you can always check out the changelog by clicking on the version at the top of the page.  Right now it is 1.0.5, and clicking that will take you to a page that has a detailed list of everything that changes between each version.  In this most recent release, most notably we have finally come out with time zone support (edit your settings to change your time zone), and the ability to upload as many TCX/GPX/KML files as you want at once! Just select them all, and see progress bars as they upload.  Very easy and pleasant to use.  
+
+If you have a Garmin GPS unit though, there is no longer any need to get your data off with 3rd party software! Recently, we have released the Garmin Sync feature which allows you to directly sync your most recent rides from your Garmin GPS unit with our site.  We are using this as an opportunity to kick off a series of video tutorials that will walk you through using our site to accomplish various things.  If you have any suggestions for videos to make, let us know! 
+
+Subscribe to our Youtube channel here: "http://www.youtube.com/ridewithgps":http://www.youtube.com/ridewithgps (or just check out our first video below)
+
+<object width="480" height="295"><param name="movie" value="http://www.youtube.com/v/VkL8Cmbn4sg&hl=en_US&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/VkL8Cmbn4sg&hl=en_US&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="295"></embed></object>
+

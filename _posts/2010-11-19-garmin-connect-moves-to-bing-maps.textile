@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Garmin Connect moves to Bing maps
+disqus_id: /2010/11/19/garmin-connect-moves-to-bing-maps
+categories: 
+  - ridewithgps.com
+---
+
+
+Garmin Connect just recently moved to Bing based maps, and spurred a huge outcry from their userbase.  The topic on Garmin's forum has racked up a total of twelve pages today alone with many negative comments, including many people talking about how they will be moving on to other sites.  Zack and I just want to say welcome to any Garmin Connect users looking for an innovative, _customer centric_ free website dedicated to being the best way to "log bike rides":http://ridewithgps.com
+
+Please, feel free to signup and give some suggestions for us.  We love talking with our users and are happy to have you on our service!
+

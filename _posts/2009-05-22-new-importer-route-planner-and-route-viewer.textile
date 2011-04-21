@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: New importer, route planner and route viewer
+disqus_id: /2009/5/22/new-importer-route-planner-and-route-viewer
+categories: 
+  - ridewithgps.com
+---
+
+
+It's been a little while since we have posted an update, however this doesn't mean we haven't been at work!  Within the last month we have pushed out some minor UI changes, bug fixes etc, as well as some not-so-minor.  The two interesting changes that are now found on the site are an improved route planner and viewer, as well as a MUCH improved route importer.
+
+The new route viewer and planner functions much the same as the old, however, the code behind has been written in a much simpler, cleaner and modular way.  This is allowing us to work on several cool new features which should be released here shortly.  With this more efficient and well thought out codebase, the route viewer and planner is about to get really cool.
+
+Additionally, you can now import rides from Bikely.  So, if you have a large amount of rides on either Map My Ride or Bikely, they can be imported with ease.  Furthermore, the importer UI has been improved.  You can now select which routes to import, as well as name and classify them inline.  It is no longer necessary to edit each route after importing, in order to customize the route.
+
+Keep enjoying the site!
+

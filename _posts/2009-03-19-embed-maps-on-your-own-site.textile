@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Embed maps on your own site
+disqus_id: /2009/3/19/embed-maps-on-your-own-site
+categories: 
+  - ridewithgps.com
+---
+
+
+Just cooked up another cool feature as requested by a couple users, embeddable routes and trips!  You can now embed any route or trip into your blog, website or other medium which allows an iframe to display.  Rule of thumb: if you can embed a youtube video in the site, you can embed one of our maps.
+
+Navigate to any route or trip page, and you will now see a small text box underneath the elevation information, labeled **Embed URL**.  Just highlight the text inside, and copy to your site.  You can change the width of the embed by editing the 'width' attribute of the iframe tag you just copied.  By default it is set at 100%, but feel free to change it around.  Things start looking crunched and ugly below about 550px though.
+
+See for yourself:
+
+ <iframe src="http://ridewithgps.com/trips/embed/94" height="500px" width="500px" frameborder="0"></iframe>
+
+Hope you are enjoying the updates!
+

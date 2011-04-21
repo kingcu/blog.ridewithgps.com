@@ -1,0 +1,15 @@
+--- 
+layout: post
+title: Initial Premium Account Launch
+disqus_id: /2011/3/30/initial-premium-account-launch
+categories: 
+  - ridewithgps.com
+---
+
+
+Finally, after months of delay we have "soft launched" our premium accounts.  They are not fully functional yet, but we decided to take a leap and release them into the wild.  They have replaced our old donation system.  Don't expect miracles if you sign up for a premium account (yet).  There are some extra features like PDF cuesheet printing and better map printing, as well as access to our new Activity Center (a new way to manage your activities) however things remain a bit sparse.  Within the next month we will release several new features such as an enhanced export for training purposes as well as direct write to Garmin Devices.
+
+Additionally, anyone signing up for a premium account receives new features automatically.  Phone support is also provided.  If you are on the fence, feel free to wait a few weeks and see what we release!
+
+"Signup for a premium account!":http://ridewithgps.com/choose_account
+

@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: KVAL CBS 13 Eugene releases story
+disqus_id: /2008/1/23/kval-cbs-13-eugene-releases-story
+categories: 
+  - ridewithgps.com
+---
+
+
+KVAL covered us this morning with a segment that aired live at 6AM this morning.  View the link below for story and video.  
+                <div style="margin: 10px 0 0 20px">
+                  <a href="http://www.kval.com/news/14026187.html" target="_blank">KVAL - Full Article with Video</a><br />
+                  <a href="http://www.katu.com/news/14102262.html" target="_blank">KATU Portland also is hosting the story</a>
+                </div>
+
+

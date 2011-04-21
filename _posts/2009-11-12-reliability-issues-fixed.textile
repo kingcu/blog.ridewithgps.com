@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Reliability Issues Fixed
+disqus_id: /2009/11/12/reliability-issues-fixed
+categories: 
+  - ridewithgps.com
+---
+
+
+Some of you may have noticed some reliability issues over the last two days.  This was due to a package we use in background processing of certain items (your uploaded trips, creating the map images you see around the site) having a couple issues with how we were using it.  I am happy to say that after spending 20 or so hours fixing some stuff, things should be much more stable!
+
+If you see any reliability issues, please let us know as usual.  A little delay in processing your uploaded file, or before a map image is created is normal, but if you see anything pushing past a few minutes give us an email.  Also, re-uploading your TCX/GPX/KML files in this situation will just make duplicates :)  You will know we are working on processing your file by the message on your profile page.
+

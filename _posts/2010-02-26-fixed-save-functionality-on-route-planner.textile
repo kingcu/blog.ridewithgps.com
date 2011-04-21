@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: Fixed save functionality on route planner
+disqus_id: /2010/2/26/fixed-save-functionality-on-route-planner
+categories: 
+  - ridewithgps.com
+---
+
+
+Some users were experiencing issues saving routes.  It turns out the issue was with some versions of the Firefox web browser under Windows.  Took me a while to hunt down, but it is fixed.  We are sorry for the inconvenience this caused some users.
+

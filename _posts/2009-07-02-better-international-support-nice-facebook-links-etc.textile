@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Better international support, nice Facebook links, etc.
+categories: 
+  - ridewithgps.com
+---
+
+
+Quick and dirty summary of what we have going on: new user signup form is friendly for users outside the US.  Existing users can edit their profile and set a specific latitude and longitude, using a map, to automatically zoom to when drawing a new route.  Routes outside of US were hard to see because Google used red roads, and our route was drawn in red.  Quick and dirty solution: routes/trips outside of US get a blue line for the route rather than red.  US routes/trips still get the red.  A better solution is in the works which will allow custom (and multiple) line colours when drawing a route.  Also, internationally drawn routes would get  US zipcode assigned to them.  This has been fixed, and now a route should get a correct 'city, state/province' assigned to it. Lastly, pasting a link to a route or trip on your Facebook page is now cleaner.  We tell Facebook to use a thumbnail of the route as a preview image.  Check it out below: 
+
+!/images/facebookLinkExample.jpg!
+
+We have a new redesign coming out in the next couple weeks that looks gorgeous.  Cameron has done an amazing job in putting it together, and we are all very excited to see it go live.  Additionally, I am spending a large amount of time expanding the route planner to encompass better cue sheet support, custom waypoints, geotagged photos and a few other things.  Hoping to get this out the door with the redesign, but it is going to be tight!  Stay tuned and we will keep everyone up to date.
+

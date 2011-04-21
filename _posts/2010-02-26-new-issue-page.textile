@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: New issue page!
+disqus_id: /2010/2/26/new-issue-page
+categories: 
+  []
+---
+
+
+We are happy to finally rollout a page where users can submit issues, suggestions and feature requests.  The issues are public and can be voted and commented on.  Voting will allow us to better prioritize requests.  Additionally, it will provide a way for users to discuss issues or features, further helping craft the site into something people can feel involved in and proud of.  The old feedback submission form is still functional, however we advise people to use the new issues page so that managing bug reports and feature requests is more efficient for our team.
+
+Thanks for helping make our site great!
+

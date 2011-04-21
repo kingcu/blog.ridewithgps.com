@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: New Layout!
+categories: 
+  - ridewithgps.com
+---
+
+
+<p>A month or so back, a friend and user of the site, Garron Hale, gave me some good ideas on redesigning the user page.  The result is how the user page has looked for a while now.  After that, he offered to mock up a new layout to see if we liked it.  He put together a design that we are happy with, and I set to cut it up and implement it.</p>
+<img src="/images/new_layout.jpg" />
+<p>This design will give us more flexibility as we continue to develop the site, and we're excited to release it.  You can find him on RWGPS, but be sure to check out Garron's site here: <a href="http://www.croptool.com/">http://www.croptool.com</a>.  </p>
+
+<p>Shoot us some feedback if you have any thoughts!</p>
+

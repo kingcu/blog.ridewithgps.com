@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: "New feature: Remember this"
+categories: 
+  - ridewithgps.com
+---
+
+
+<p>Ever ran across something on the site that you wanted to go back to later?  Now, when you are viewing users, routes, trips, gear, or photos, look for a link that says "Remember this".  It will save that item to your account, and shoot you right back to what you were looking at so your browsing is not interrupted.</p>
+<p>I sometimes run across routes that I want to ride, or a cool bike I want to show one of my buddies later, or a user that is adding a bunch of interesting routes.  Now I can just click Remember this, and I end up with a new tab on my profile page that looks like this:</p>
+<img src="/images/favs.png" />
+<p>We also added a "Support this site" link that is visible in this screenshot.  This site is going to be our livelihood, but we are not quick to compromise our users' interests.  If you support what we're doing and think this service is worth money, we greatly appreciate any support.  If you don't feel like paying, no big deal, there will always be room for free accounts.  If you have any ideas on how we can improve, that is greatly appreciated as well.  We value your input and will work to meet your needs.</p>
+

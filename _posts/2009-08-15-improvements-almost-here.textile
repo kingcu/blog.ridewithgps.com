@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Improvements almost here!
+disqus_id: /2009/8/15/improvements-almost-here
+categories: 
+  - ridewithgps.com
+---
+
+
+<p>As some of you are aware, we have been hard at work on a large number of improvements to the site.  We have brought a good friend of ours on board, Cameron Gaut, and he has crafted up a great new look and feel to the site.  We're in the process of wrapping up these changes now, and we are almost there.</p>
+<p>Expect the new version of this site to come online in the next couple of days.  Once it is live, please send us your feedback through the Ideas? link at the top of the page.  We'd love to hear your thoughts on the improvements.</p>
+

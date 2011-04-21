@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Beginning of workout features
+categories: 
+  - ridewithgps.com
+---
+
+
+<p>One sought after feature is the ability to track training/workouts and see weekly and monthly summaries, as well as be able to set and track fitness goals.</p>
+<p>Tonight I laid the groundwork for these features.  Trips now default to a calendar view that show weekly and monthly summaries of distance, elevation gain, and duration.  Soon this will be extended to allow recording any workout, such as weight lifting, rock climbing, swimming, etc.  At the moment, here is how the calendar view looks: </p>
+<img src="/images/trips_list_calendar.png" />
+<p>I will be fleshing the workouts features out in the coming days, and would love to hear what you'd like to see out of it, or what you'd like to do with it.  If you have any ideas, comment on this post or shoot me off an email and I will incorporate that into my work.</p>
+

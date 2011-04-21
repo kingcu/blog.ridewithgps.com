@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: "Version 1.0: Complete redesign, new features, new team member"
+disqus_id: /2009/9/26/version-1-0-complete-redesign-new-features-new-team-member
+categories: 
+  - ridewithgps.com
+---
+
+
+<p>We just released a set of bug fixes and minor feature enhancements on top of our new redesign built with our new partner, Cameron Gaut!  We have also opened up a form to apply to join our private beta, where you will be able to check out our premium features before they are released, and hopefully help us by providing feedback.  By iterating through a couple releases with our beta group before going public with these training and ride analysis features, we will come out of this with our best set of features yet.</p>
+<h2>Here are the details:</h2>
+<ul><li><a href="http://ridewithgps.com/newsletters/1">Ride with GPS Newsletter, Volume 1!</a></li>
+<li><a href="http://ridewithgps.com/beta_application">Apply to take part in our premium features beta test</a></li>
+<li><a href="http://ridewithgps.com/changelog">Changelog</a>: Get here by clicking the version number at the top of Ride with GPS. It shows all the changes as we release them so you know what's new.</a></li>
+</ul>
+<p>Lastly, for the social media users out there, you should follow us on twitter <a href="http://twitter.com/ridewithgps">here</a>.</p>
+
