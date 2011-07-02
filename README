@@ -1,0 +1,11 @@
+# Ride with GPS blog - (blog.ridewithgps.com)[http://blog.ridewithgps.com]
+
+    gem install jekyll
+    # do a test compile, it will complain if you are missing gems so you can install them
+    jekyll
+
+Follow conventions in _posts
+
+    git commit 
+    git push 
+    ./deploy
