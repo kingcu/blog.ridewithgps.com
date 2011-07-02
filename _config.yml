@@ -1,5 +1,5 @@
-auto: true
-server: true
-permalink: /:year/:month/:day/:title
+auto: false
+server: false
+permalink: /blog/:year/:month/:day/:title
 markdown: maruku
 pygments: true
