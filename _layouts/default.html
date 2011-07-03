@@ -1,43 +1,60 @@
-<!DOCTYPE HTML>
+--- 
+title: Ride with GPS Blog
+---
 
-<html>
+<!DOCTYPE html>
+<html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="Ride With GPS" content="Cullen King and Zack Ham" />
+    <meta name="Ride with GPS" content="Official blog for ridewithgps.com - Mapping and performance analysis for cyclists and runners" />
     <title>{{ page.title }}</title>
 
-    <link rel="stylesheet" href="/stylesheets/main.css" type=text/css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?3.3.0/build/cssfonts/fonts-min.css&3.3.0/build/cssreset/reset-min.css&3.3.0/build/cssgrids/grids-min.css&3.3.0/build/cssbase/base-min.css" />
+    <link href="/stylesheets/main.css" media="screen" rel="stylesheet" type="text/css" />
   </head>
   <body>
     <div id="header">
-      <h1><a href="/">Home</a></h1>
+      <a href="/"><img src="/images/header.png" alt="{{ page.title}}" /></a>
     </div>
 
-    <div id="content">
-	    <div id="sidebar">
-	      <h3>Our Friends</h3>
-	      <ul>
-		<li><a href="http://ridewithgps.com">Ride With GPS</a></li>
-		<li><a href="http://cullenking.com">Cullen's Blog</a></li>
-		<li><a href="http://zackham.com">Zack's Blog</a></li>
-	    </div>
+    <div id="content" class="yui3-g">
+      <div id="posts" class="yui3-u-19-24">
+        {{ content }}
+      </div>
 
-	    <div id="posts">
-	      {{ content }}
-	    </div>
+      <div id="sidebar" class="yui3-u-5-24">
+        <h3>Quick Links</h3>
+        <ul>
+          <li><a href="http://ridewithgps.com/contact">Contact</a></li>
+          <li><a href="http://ridewithgps.com/faq">RWGPS FAQ</a></li>
+          <li><a href="http://ridewithgps.com/about">About Us</a></li>
+        </ul>
+        <h3>GPS Unit Help</h3>
+        <ul>
+          <li><a href="http://ridewithgps.com/edge_305">Garmin Edge 205/305</a></li>
+          <li><a href="http://ridewithgps.com/edge_500">Garmin Edge 500</a></li>
+          <li><a href="http://ridewithgps.com/edge_705">Garmin Edge 705</a></li>
+          <li><a href="http://ridewithgps.com/edge_800">Garmin Edge 800</a></li>
+        </ul>
+        <h3>Our Friends</h3>
+        <ul>
+          <li><a href="http://ridewithgps.com">Ride With GPS</a></li>
+          <li><a href="http://cullenking.com">Cullen's Blog</a></li>
+          <li><a href="http://zackham.com">Zack's Blog</a></li>
+        </ul>
+      </div>
     </div>
 
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-3033335-2']);
+      _gaq.push(['_trackPageview']);
 
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3033335-2']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
   </body>
 </html>

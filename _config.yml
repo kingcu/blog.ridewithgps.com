@@ -3,3 +3,5 @@ server: false
 permalink: /blog/:year/:month/:day/:title
 markdown: maruku
 pygments: true
+paginate: 10
+url: http://blog.ridewithgps.com

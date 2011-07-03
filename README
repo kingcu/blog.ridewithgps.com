@@ -6,6 +6,12 @@
 
 Follow conventions in _posts
 
+Test with jekyll server locally
+
+    jekyll --auto --server 3010
+
+Push and deploy
+
     git commit 
     git push 
     ./deploy
