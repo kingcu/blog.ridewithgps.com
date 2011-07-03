@@ -1,4 +1,4 @@
-# Ride with GPS blog - (blog.ridewithgps.com)[http://blog.ridewithgps.com]
+# Ride with GPS blog - http://blog.ridewithgps.com
 
     gem install jekyll
     # do a test compile, it will complain if you are missing gems so you can install them
