@@ -13,7 +13,7 @@ Navigate to any route or trip page, and you will now see a small text box undern
 
 See for yourself:
 
- <iframe src="http://ridewithgps.com/trips/embed/94" height="500px" width="500px" frameborder="0"></iframe>
+ <iframe src="http://ridewithgps.com/trips/94/embed" height="500px" width="500px" frameborder="0"></iframe>
 
 Hope you are enjoying the updates!
 
