@@ -1,0 +1,24 @@
+---
+layout: post
+title: "New feature: Segments"
+---
+We have just released the ability to define segments, which gives you
+an easy and fun way of analyzing multiple rides at once and see where
+you stand in your area on your favorite roads.  Anyone can create segments and
+participate today. Our premium users can use segments privately, and
+create segments directly from laps recorded on a GPS unit.
+
+Here is a video demonstrating how to create a segment:
+
+<iframe width="560" height="349" src="http://www.youtube.com/embed/BUbmszOMfWw" frameborder="0" allowfullscreen="allowfullscreen">
+</iframe>
+
+And here is a video walking through all the details of the segment
+page:
+
+<iframe width="560" height="349" src="http://www.youtube.com/embed/jE2i7jzUuOg" frameborder="0" allowfullscreen="allowfullscreen">
+</iframe>
+
+If you have any other questions about using segments, check out our
+help page here: <a
+href="http://ridewithgps.com/segments/help">Segments Help Page</a>
