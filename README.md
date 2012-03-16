@@ -15,5 +15,7 @@ Push and deploy
     git commit 
     git push 
     ./deploy
+	HEAD
 
 Second edit better then the first
+
