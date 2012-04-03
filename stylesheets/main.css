@@ -47,3 +47,7 @@ p, ul {
   margin-top: -12px;
   margin-bottom: 1em;
 }
+
+img.postimage {
+  border:1px solid #000;
+}
