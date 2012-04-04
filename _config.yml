@@ -1,5 +1,5 @@
-auto: false
-server: false
+auto: true
+server: true
 permalink: /blog/:year/:month/:day/:title
 markdown: maruku
 pygments: true

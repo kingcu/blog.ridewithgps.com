@@ -1,0 +1,15 @@
+---
+layout: post
+title: "New Logo"
+---
+
+Along with updating our color scheme we also felt like it was time for our logo to grow up a little bit. And, since we do not proclaim to be graphic designers and we think the concept of crowd sourcing is cool we opted to try out <a href="http://99designs.com/">99designs</a>. We setup up a competition with just a few parameters, which was the easy part, and then waited for the designs to come in. 
+
+At first it was easy to pick the good designs out from the bad designs. But, as the competition went into the late rounds it became really hard to pick between the designs. However, we pushed through the tough times and picked the winner!
+
+<img class="postimage" src="/images/logo_new.jpg">
+
+We are really happy about and excited for our new logo. We feel like it's really helping make the site feel more professional. We hope you like it to!
+
+If you have any other questions about our new logo, send us an email: <a
+href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
