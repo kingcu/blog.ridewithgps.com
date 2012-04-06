@@ -1,7 +1,7 @@
 auto: true
 server: true
 permalink: /blog/:year/:month/:day/:title
-markdown: maruku
+markdown: redcarpet
 pygments: true
 paginate: 10
 url: http://blog.ridewithgps.com
