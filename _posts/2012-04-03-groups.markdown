@@ -2,9 +2,9 @@
 layout: post
 title: "Groups"
 ---
-You can now connect with people on Ride With GPS through our new Groups features. Groups will allow you to easily meet, coordinate, share, and compare rides, routes, and events with other group members. You can easily search for groups in your area or afar. Or, you can create your own Ride With GPS Group!
+You can now connect with people on <a href="http://ridewithgps.com">Ride With GPS</a> through our new Groups features. Groups will allow you to easily meet, coordinate, share, and compare rides, routes, and events with other group members. You can easily search for groups in your area or afar. Or, you can create your own Ride With GPS Group!
 
-To get started find the group you're looking for by selecting "Group" from the "Search" drop down menu:
+To get started find the group you're looking for by selecting "Group" from the "Search" drop down menu, or <a href="http://ridewithgps.com">click here to go to groups</a>.
 
 
 <img class="postimage" src="/images/group_search.jpg" alt="Group Search">
