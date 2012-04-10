@@ -2,14 +2,18 @@
 layout: default
 ---
 
+
 <div class="post">
   <h2 class="posttitle">
     <a href="{{ page.url }}">{{ page.title }}</a>
   </h2>
   <em class="postdate">Posted on {{ page.date | date_to_long_string }}.</em>
+  <h3 class="backlink">
+    <a href="/">Back To Blog</a>
+  </h3>
   <div class="postbody">
     {{ content }}
-  </div>
+  </div>  
 </div>
 
 <div id="disqus_thread"></div>

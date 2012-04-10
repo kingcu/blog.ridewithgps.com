@@ -11,7 +11,7 @@ Travis has been an endurance athlete in one way or another for 10 years, and has
 You can get to know Travis by following him on Twitter at <a href="https://twitter.com/#!/travcaldwell">@travcaldwell</a>
 
 
-If you have any other questions about this new Activity Center feature, send us an email: <a
+If you have any other questions about Travis, send us an email: <a
 href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
 
 Not a premium user? <a href="https://ridewithgps.com/choose_account?utm_source=Blog&utm_medium=Post&utm_campaign=BlogPost">Upgrade your account now!</a>
