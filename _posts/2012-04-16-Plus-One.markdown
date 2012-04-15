@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Plus One"
+---
+Ride With GPS is now on Google+! 
+
+With an increasing effort to broaden our horizons and expand Ride With GPS we have now encorporated Google+ as our newest social media platform. We are going to strive to offer unique content on this platform as well as giveaways and member offerings. 
+
+We hope that you add Ride With GPS to your cirles! 
+
+<!-- Place this tag where you want the badge to render -->
+<g:plus href="https://plus.google.com/114140652803736847764" rel="publisher" width="300" height="69" theme="dark"></g:plus>
+<script type="text/javascript">gapi.plus.go();</script>
+
+
+Not a premium user? <a href="https://ridewithgps.com/choose_account?utm_source=Blog&utm_medium=Post&utm_campaign=BlogPost">Upgrade your account now!</a>
