@@ -11,6 +11,6 @@ We have created a snapshot of the changes to the leaderboard from yesterday. The
 Get your last rides in by the end of the day Friday to shake up the leaderboard even more!
 
 
-Check out the <a href="http://ridewithgps.com/trips/10789http://beta.ridewithgps.com/competitions/apr-2012-most-miles?utm_source=Blog&utm_medium=Social&utm_campaign=DailyPost">Full Leaderboard!</a> Now get out there and tear it up! 
+Check out the <a href="http://ridewithgps.com/competitions/apr-2012-most-miles?utm_source=Blog&utm_medium=Social&utm_campaign=DailyPost">Full Leaderboard!</a> Now get out there and tear it up! 
 
 If you have any questions about our April 2012 Distance Challenge email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
