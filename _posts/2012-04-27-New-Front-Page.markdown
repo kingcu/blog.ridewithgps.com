@@ -20,6 +20,6 @@ Below the fold we wanted to give a little bit more info about what Ride With GPS
 
 <img class="postimage" src="/images/post_images/frontpage_6.jpg">
 
-Overall we are much happier with the sites front page and the overall look and feel the site now has. 
+Overall we are much happier with the site's front page and the overall look and feel the site now has. 
 
 If you have any questions about "{{ page.title }}" email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
