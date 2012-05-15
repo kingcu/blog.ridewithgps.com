@@ -38,7 +38,7 @@ __The honorable mentions for most elevation gain in the least distance during th
     <tr>
         <td width="200">1. <a href="http://ridewithgps.com/users/64396?utm_source=Blog&utm_medium=Social&utm_campaign=DailyPost">Kraken</a> </td>
         <td width="100">20th Overall</td>        
-        <td width="419">9472fr in 83.8 miles!</td>
+        <td width="419">9472ft in 83.8 miles!</td>
     </tr>
     <tr>
         <td width="200">1. <a href="http://ridewithgps.com/users/81649?utm_source=Blog&utm_medium=Social&utm_campaign=DailyPost">Richard S</a> </td>
