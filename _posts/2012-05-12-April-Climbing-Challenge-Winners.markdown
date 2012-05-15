@@ -2,7 +2,7 @@
 layout: post
 title: "2012 April Climbing Challenge Winners!"
 ---
-A BIG thank you to everyone that participated! Our second competition is officially in the books! We think it was very successful and a lot of fun. We are super impressed with the elevation that everyone climbed. You can see the full <a href="http://ridewithgps.com/competitions/apr-2012-most-climbing?utm_source=Blog&utm_medium=Social&utm_campaign=DailyPost">Leaderboard here!</a>
+A BIG thank you to everyone that participated! Our second competition is officially in the books, and we think it was very successful and a lot of fun. We are super impressed with the elevation that everyone climbed. You can see the full <a href="http://ridewithgps.com/competitions/apr-2012-most-climbing?utm_source=Blog&utm_medium=Social&utm_campaign=DailyPost">Leaderboard here.</a>
 
 __Top three riders with the most accumulated elevation gain:__
 
@@ -47,8 +47,8 @@ __The honorable mentions for most elevation gain in the least distance during th
     </tr>
 </table> 
 
-The top 3 participants and honorable mentions will also receive one of our new water bottles! We want to again thank everyone for participating! We hope that you all enjoyed playing along. 
+The top 3 participants and honorable mentions will also receive one of our new water bottles! We want to again thank everyone for participating, and hope that you all enjoyed playing along. 
 
-We are working on details for our next competitions, so be on the lookout for the announcement of it! 
+We are working on details for our next competitions, so be on the lookout for the announcement of it. 
 
 If you have any questions about our April Climbing Competition email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
