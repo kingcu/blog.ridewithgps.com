@@ -23,6 +23,6 @@ What you can expect in the next week thanks to this work:
 
 One of the primary motivations behind these changes, is that it allows us to do efficient comparisons across all your rides.  We are well on our way to wrapping up some great improvements to the activity center for our premium users that take advantage of this, stay tuned and let us know if you have any feedback!
 
-<img class="postimage" src="images/post_images/newmetrics.jpg">
+<img class="postimage" src="/images/post_images/newmetrics.jpg">
 
 If you have any questions about "{{ page.title }}" email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
