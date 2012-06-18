@@ -2,7 +2,7 @@
 layout: post
 title: "Site Update: New Help System"
 ---
-One aspect of the site that we have been spending a lot of time on lately is our help system. Something that we really like about Ride With GPS is how personal it is. Our members can always contact us directly and we do our best to get back to everyone as quickly as possible. 
+An aspect of the site that we have been spending a lot of time on lately is our help system. Something that we really like about Ride With GPS is how personal it is. Our members can always contact us directly and we do our best to get back to everyone as quickly as possible. 
 
 However, one of the things we have noticed for awhile is that we are spending a lot of time each day or week answering the same or very similar questions. What this told us is that we hadn't done a good job making answers available to our members on the site. And, as hard as we try to make our tool simple and easy to use there are always questions, so we wanted to provide those more readily on the site. 
 
@@ -10,7 +10,11 @@ With this in mind we set out to build our first Help page!
 
 <img class="postimage" src="/images/post_images/help_preview.jpg">
 
-We have been keeping track of support emails and phone calls for the last few months so we were able to start builign the help page with content from those questions and answers. It's a fairly comprehensive list of content that we have developed, but it will always be a work in progress and we'll continuously be adding information to it so we can best serve our members. 
+We have been keeping track of support emails and phone calls for the
+last few months so we were able to start building the help page with
+content from those questions and answers. Over the coming weeks we
+will be fleshing out the help content with the goal of it covering the
+site functionality comprehensively.
 
 In order to make it really easy for users to find the answers they are looking for we also updated the "Feedback" process, so now when you click "help/feedback" you'll get this:
 
