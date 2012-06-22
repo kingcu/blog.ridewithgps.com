@@ -2,7 +2,7 @@
 layout: post
 title: "Site Update: Events!"
 ---
-A feature we have been wanting to develop for awhile is something that give users and groups the abiltiy to create events. We have a lot of event promoters that use our site as well as groups who plan recurring activities or multi-leg rides. So we set out to fill the need and just released our first version of Ride With GPS Events!
+A feature we have been wanting to develop for awhile is something that give users and groups the ability to create events. We have a lot of event promoters that use our site as well as groups who plan recurring activities or multi-leg rides. So we set out to fill the need and just released our first version of Ride With GPS Events!
 
 There are a few different ways to create your own event. One, if you are the admin of a group you will see the link "Create an event" on your group's profile page:
 
