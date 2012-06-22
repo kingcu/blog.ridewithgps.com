@@ -4,7 +4,7 @@ title: "2012 Tour de France Ride With GPS Competition"
 ---
 <a href=""><img style="float:left;" src="/images/post_images/tdf_challenge_250.jpg"></a> <a href="http://ridewithgps.com/competitions/tour-de-france">Celebrate the 99th Tour de France with Ride With GPS!</a>
 
-This year the Tour de France celebrates its 99th running and will take place from Saturday, June 30th to July 22nd and will cover 3,497 kilometers (2,173 miles) in distance. We want to challenge ourselves and you to ride like the grand-tour riders for a year of bragging rights! 
+This year the Tour de France celebrates its 99th running and will take place from Saturday, June 30th to July 22nd and will cover 3,497 kilometers (2,173 miles) in distance. Find out if you have what it takes to ride like the grand-tour competitors.  Find out who is the strongest (or has the most time on their hands) amongst your friends!
 
 _Dates - June 30th to July 22nd_
  
@@ -23,4 +23,4 @@ Prizes will be awarded for the following results in each competition:
 - Person with most distance ridden in the 23 days
 - Person who climbs the most elevation in the 23 days
 
-If you have any questions about "{{ page.title }}" email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
+If you have any questions about *{{ page.title }}* email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>

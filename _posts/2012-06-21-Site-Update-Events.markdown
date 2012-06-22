@@ -2,7 +2,7 @@
 layout: post
 title: "Site Update: Events!"
 ---
-A feature we have been wanting to develop for awhile is something that give users and groups the ability to create events. We have a lot of event promoters that use our site as well as groups who plan recurring activities or multi-leg rides. So we set out to fill the need and just released our first version of Ride With GPS Events!
+Over the last year, we have received dozens of requests for features specific to event organization.  With that in mind, we are releasing our first iteration of events.  This first implementation is basic, however we will be introducing many more features which will make our event system a powerful tool for anyone who wants to plan a ride or series of rides.  Events are not just for official organizers - we will have solid support for a basic multi-day ride all the way up to a full multi-stage race.
 
 There are a few different ways to create your own event. One, if you are the admin of a group you will see the link "Create an event" on your group's profile page:
 
@@ -50,4 +50,4 @@ selecting "Create event" on the event search page.
 We are very excited about this release of Events and are looking
 forward to our next iteration on this set of features. Please check out an event page in action <a href="">here</a> let us know what you think!
 
-If you have any questions about "{{ page.title }}" email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
+If you have any questions about *{{ page.title }}* email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
