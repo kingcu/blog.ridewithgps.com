@@ -7,7 +7,7 @@ One of the most praised aspects of our site is how responsive we are to user que
 <img class="postimage" src="/images/post_images/help_preview.jpg">
 
 We have been keeping track of support emails and phone calls for the
-last few months so we were able to start building the help page with
+last few months, which enabled us to start the help page with
 content from those questions and answers. Over the coming weeks we
 will be fleshing out the help content with the goal of comprehensive coverage of site functionality.
 
