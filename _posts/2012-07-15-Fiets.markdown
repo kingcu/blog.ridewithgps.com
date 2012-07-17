@@ -2,22 +2,40 @@
 layout: post
 title: "Site Feature: Fiets"
 ---
-<img style="float:left;" src="/images/post_images/fiets.png"> A short while back we added some new metrics to segment pages. One of those metrics was "fiets", and we've received several inquires regarding this metric, so we want give an explanation on what this metric is and what it means to you.
+<img style="float:left;" src="/images/post_images/fiets.png"> A short
+while back we added some new metrics that we're displaying on
+segments, routes and trips. One of those metrics was "Fiets", which
+has been asked about a number of times. Here is a quick explanation
+covering what exactly this metric is, so you can better understand
+what it means and how it lets you gauge the difficulty of a climb.
 
-The short explanation of fiets is that it is a dificulty rating for a climb. However, the short explanation doesn't really give this rating system enough credit.
+The short explanation of Fiets is that it is a dificulty rating for a climb. However, the short explanation doesn't really give this rating system enough credit.
 
-The long explanation is that fiets differs from the category rating scale because it take more factors into the equation. Here's the equestion:
+The long explanation is that Fiets differs from the category rating
+scale because it take more factors into the equation. Here's the
+actual equation:
 
-fietsIndex = h&#42;h / (d&#42;10) + (t > 1000 ? (t-1000)/1000.0 :0)
+fietsIndex = h^2 / (d&#42;10) + (t > 1000 ? (t-1000)/1000.0 :0)
 
 Where: 
 
 - h = max elevation - min elevation
-- d = metric distance
-- t = max Elevation
+- d = distance
+- t = max elevation
 
-Since this equation takes steepness into the equation you will sometimes find that a long shallow climb that is still a Cat HC or Cat 1 may not rate highly on Fiets. Transversely, a climb that is shorter and steeper might have a higher fiets rating but maybe only at Cat 4 or Cat 5. 
+Since this equation takes average grade into account you will
+sometimes find that a long shallow climb that is still a Cat HC or Cat
+1 may not rate highly on Fiets. Conversely, a climb that is shorter
+and steeper might have a higher Fiets rating but may be only a Cat 4
+or Cat 5. Another element that Fiets accounts for is altitude. If the
+max elevation of the climb is over 1000 meters, the Fiets index will
+be higher to account for the added difficulty of climbing in thinner air.
 
-The best thing you can do with fiets is to familiarize yourself with it and what your favorite climbs are rated. From there you'll be able to know what to expect for efforts that correspond to fiets ratings.
+The best thing you can do with Fiets is to familiarize yourself with
+it and what your favorite climbs are rated. Then you will have a great
+tool to evaluate the difficulty of unfamiliar climbs.
+
+To see the Fiets index when looking at a route, zoom in on the
+climb (by dragging your mouse over that section on the elevation profile) and you will see it show up under the metrics tab.
 
 If you have any questions about *{{ page.title }}* email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
