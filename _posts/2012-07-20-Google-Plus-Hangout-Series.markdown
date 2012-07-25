@@ -2,9 +2,20 @@
 layout: post
 title: "Google Plus Hangout Series"
 ---
-<img style="float:left;" src="/images/post_images/google-plus-hangouts-icon-large.jpg"> Something that we have wanted to impliment for awhile is more direct connection with our members. We've wanted to establish a way to share tips and tricks about Ride With GPS, share and discuss upcoming features, and get feedback from members. 
+<img style="float:left;"
+src="/images/post_images/google-plus-hangouts-icon-large.jpg">
+Something we have wanted to implement for a while is a more direct
+connection with our members. We've wanted to establish a way to share
+tips and tricks about Ride With GPS, share and discuss upcoming
+features, and get more direct feedback. 
 
-This last week we tested out our first attempt at this by using Google Plus Hangout Technology. We think that the test run was a huge sucess! Based on how the test run went we have decided to schedule out our first series of hangouts and we are excited to announce the dates and topics below:
+This last week we gave this a shot by hosting a Google Plus
+Hangout. With this service, we are able to broadcast our screens and
+voices to an unlimited number of people who can watch live via
+Youtube. Also, up to 10 people can join the Hangout directly using
+their webcam/microphone.  We think that the test run was a huge
+success, and we have decided to schedule out our first series of
+Hangouts as a result.  Here are the proposed topics and times:
 
 August Hangout Series: 
 
