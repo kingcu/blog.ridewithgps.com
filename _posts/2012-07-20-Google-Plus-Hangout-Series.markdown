@@ -19,10 +19,12 @@ Hangouts as a result.  Here are the proposed topics and times:
 
 August Hangout Series: 
 
-- 8/1/12 5:30pm Pacific Time: Route Creation Tips and Tricks | <a href="">Sign Up</a>
-- 8/8/12 5:30pm Pacific Time: Garmin 800 Tips and Tricks | <a href="">Sign Up</a>
-- 8/15/12 5:30pm Pacific Time: Route Creation Tips and Tricks | <a href="">Sign Up</a>
-- 8/22/12 5:30pm Pacific Time: Groups, Events, and Segments | <a href="">Sign Up</a>
+- 8/1/12 5:30pm Pacific Time: Route Creation Tips and Tricks
+- 8/8/12 5:30pm Pacific Time: Garmin 800 Tips and Tricks
+- 8/15/12 5:30pm Pacific Time: Route Creation Tips and Tricks
+- 8/22/12 5:30pm Pacific Time: Groups, Events, and Segments
+
+<a href="https://docs.google.com/spreadsheet/viewform?formkey=dGY3djJ0TFotQ0pLNmkxQVBTLVlqLVE6MQ">Sign Up Here</a> for the Hangout of your choice.
 
 Zack and Travis will be the hosts for the first series. The way the hangouts will work is that the first 8 members to join the hangout when it starts will be able to interact with us through screen-sharing and their mic's. The rest of the people who join will be able to watch the hangout live on youtube and interact through the hangout's chat feature. If you don't use google plus that's okay because you can watch live through youtube!
 
