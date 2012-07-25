@@ -24,9 +24,11 @@ August Hangout Series:
 - 8/15/12 5:30pm Pacific Time: Route Creation Tips and Tricks
 - 8/22/12 5:30pm Pacific Time: Groups, Events, and Segments
 
-<a href="https://docs.google.com/spreadsheet/viewform?formkey=dGY3djJ0TFotQ0pLNmkxQVBTLVlqLVE6MQ">Sign Up Here</a> for the Hangout of your choice.
+<a href="https://docs.google.com/spreadsheet/viewform?formkey=dGY3djJ0TFotQ0pLNmkxQVBTLVlqLVE6MQ"><b>Sign Up Here</b></a> for the Hangout of your choice.
 
-Zack and Travis will be the hosts for the first series. The way the hangouts will work is that the first 8 members to join the hangout when it starts will be able to interact with us through screen-sharing and their mic's. The rest of the people who join will be able to watch the hangout live on youtube and interact through the hangout's chat feature. If you don't use google plus that's okay because you can watch live through youtube!
+Zack and Travis will be the hosts for the first series. The way the
+hangouts will work is that the first 8 members to join the hangout
+when it starts will be able to interact with us through their webcam and mic. The rest of the people who join will be able to watch the Hangout live on Youtube and interact through the Hangout's chat feature. If you don't use Google Plus that's okay because you can watch live through Youtube!
 
 We are really excited about this series and want to expand in the future, so please let us know if you have a topic you'd like for us to cover or a time frame that would work better for you. We're looking forward to hanging out with you, so don't wait to signup!
 
