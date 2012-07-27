@@ -22,6 +22,10 @@ Why: To take advantage of the long hot days!*
 
 <a href="http://ridewithgps.com/competitions/Hot-summer-nights?utm_source=Blog&utm_medium=Blog&utm_campaign=Blog"><b>Sign Up Here</b></a> for Hot Summer Nights!
 
-We will be awarding prizes to top-place finishers. We'll also award prizes for the competition's more noteworthy rides. As has been the case with the previous competitions this should be a lot of fun and we hope you'll all participate!
+Everyone who completes their challenge will be
+entered into a lottery for prizes. We'll also give
+prizes to the top-place finishers in the 60 hour
+challenge, and hand out prizes along the way for
+noteworthy rides! As has been the case with the previous competitions this should be a lot of fun and we hope you'll all participate!
 
 If you have any questions about *{{ page.title }}* email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
