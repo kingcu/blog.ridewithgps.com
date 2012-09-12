@@ -4,7 +4,12 @@ title: "Hot Summer Nights Recap"
 ---
 <img style="float:right;"
 src="/images/post_images/hourevent_graphic.png">The Hot Summer Nights
-Challenge has been over for a few weeks now, and we've finally been able to sort through all the data and results!
+Challenge has been over for a few weeks now, and we've finally been
+able to sort through all the data and results! 
+
+<a
+href="http://ridewithgps.com/competitions/Hot-summer-nights/overview" target="_blank">See
+the final leaderboards here</a>
 
 This was a really fun challenge, and as has been the case with each event, competition, or challenge that we have hosted so far, we are impressed by the participation level and the results. It's really cool to see how much everyone gets out on their bikes!
 
