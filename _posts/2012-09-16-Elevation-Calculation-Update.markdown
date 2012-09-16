@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sit Update: Elevation Calculation"
+title: "Site Update: Elevation Calculation"
 ---
 The one aspect of our site that has generated more questions than any other has been our elevation calculations.  Since every site and piece of software generates different elevation gain and loss figured for a planned or recorded ride, user are often confused as to which is the most accurate.  Hopefully this bit of information, and a pending site update, will help clear the waters.
 
