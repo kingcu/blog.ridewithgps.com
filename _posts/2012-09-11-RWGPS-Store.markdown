@@ -2,6 +2,9 @@
 layout: post
 title: "Site Feature: Store"
 ---
+<a href="http://ridewithgps.com/products">Go to the Ride with GPS
+store</a>
+
 Over the last few years we've received countless requests for Ride With GPS branded merchandise. While we have wanted to provide this for awhile it has taken us some time to get to a point where we could. With our efforts of expanding this year we have been able, finally, to start offering some Ride With GPS products. 
 
 You can see all of the products we are offering on the Products page. But, we wanted to take a few minutes and give a bit more background information on each product. 
