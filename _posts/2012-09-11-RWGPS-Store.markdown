@@ -62,7 +62,7 @@ front as they turned out great!
 
 **<a
   href="http://ridewithgps.com/products/OSM-Maps-for-Garmin-GPS-Units">OSM
-  Maps for Garmin GPS Units</a> | $20.00**  
+  Maps for Garmin GPS Units</a> | $25.00**  
 
 On our help pages for the <a
 href="http://ridewithgps.com/edge_705">Garmin Edge 705</a> and the <a
