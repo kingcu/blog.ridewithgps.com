@@ -16,7 +16,7 @@ lives of all people affected by diabetes.
 It is a huge honor for us to be the new mapping system for these
 events and to be associated with this wonderful charity. Our goal is
 to help provide the best route maps so that each event can maximize
-it's ability to promote and raise money for the American Diabetes
+its ability to promote and raise money for the American Diabetes
 Association. 
 
 Events will play a significant role in the future of Ride with GPS.
