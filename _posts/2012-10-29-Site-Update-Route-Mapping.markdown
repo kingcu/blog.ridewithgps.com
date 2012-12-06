@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Route Planner Updates: Out-and-back, reverse, undo/redo, more!"
+title: "Route Planner Updates: Out-and-back, reverse, undo/redo, more!"
 ---
 The route mapping tool is the cornerstone of the site and we are continually working to enhance it. Recently we released several new features for the route mapping tool, also we were able to fix a couple outstanding issues. Below are details:
 
