@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Quick Tip: Pressure Washing!"
+---
+Wrapping Up A Great Year
+ 
+Looking back on 2012, we can't help but feel incredibly lucky for our Ride With GPS fans.  Many kind reviews and word of mouth promotion propelled us to new traffic levels, leaving us feeling thankful for such a solid support base.
+ 
+In 2012 we brought on two new employees, Travis Caldwell as social media and marketing coordinator, and Stefanie Sahl as our support and shipping specialist.  Looking forward to 2013, we should have another developer on board which will help us quickly crank out new features and bug fixes.
+ 
+2012 brought our first Challenges, allowing users to motivate themselves and others to stay fit and on top of their riding.  We fully understand how easy it is to fall behind with a busy workweek and family life, so expect a series of attainable and enjoyable Challenges in 2013.
+ 
+One of the more personally exciting things for us this year was shipping our first runs of merchandise out to users.  Our waterbottles and jerseys proved to be a bigger hit than we expected, leaving us planning another jersey print, this time in a more relaxed club fit.  Hopefully we can get enough kits out there next year that we'll actually run into people wearing them while riding!  Two word hint: matching bibs....
+ 
+We can't do it without you!  2012 proved to be an amazing year, full of opportunities and great conversations with users.  Looking back on the year and realizing how much we accomplished with your suggestions and support, with so little resources, we can hardly contain our excitement for 2013.  Here's to a great New Year!
+ 
+ 
+Happy Holidays,
+Cullen, Zack, Stefanie and Travis
+
+If you have any questions about *{{ page.title }}* email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
