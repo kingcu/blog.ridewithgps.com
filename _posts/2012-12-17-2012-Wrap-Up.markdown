@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "Quick Tip: Pressure Washing!"
+title: "Wrapping Up A Great Year"
 ---
-Wrapping Up A Great Year
- 
 Looking back on 2012, we can't help but feel incredibly lucky for our Ride With GPS fans.  Many kind reviews and word of mouth promotion propelled us to new traffic levels, leaving us feeling thankful for such a solid support base.
  
 In 2012 we brought on two new employees, Travis Caldwell as social media and marketing coordinator, and Stefanie Sahl as our support and shipping specialist.  Looking forward to 2013, we should have another developer on board which will help us quickly crank out new features and bug fixes.
