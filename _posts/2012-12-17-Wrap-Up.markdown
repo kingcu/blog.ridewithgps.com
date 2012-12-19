@@ -14,6 +14,7 @@ We can't do it without you!  2012 proved to be an amazing year, full of opportun
  
  
 Happy Holidays,
+
 Cullen, Zack, Stefanie and Travis
 
 If you have any questions about *{{ page.title }}* email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
