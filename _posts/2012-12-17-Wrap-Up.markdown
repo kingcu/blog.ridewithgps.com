@@ -13,8 +13,7 @@ One of the more personally exciting events of the year was shipping the first ru
 We can't do it without you!  2012 proved to be an amazing year, full of opportunities and great conversations with users.  Looking back on the year and realizing how much we accomplished with your suggestions and support, with so little resources, we can hardly contain our excitement for 2013.  Here's to a great New Year!
  
  
-Happy Holidays,
-
+Happy Holidays,  
 Cullen, Zack, Stefanie and Travis
 
 If you have any questions about *{{ page.title }}* email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
