@@ -2,7 +2,7 @@
 layout: post
 title: "Sponsoring Sonic Boom Racing"
 ---
-<img src="/images/post_images/SonicBoom_Logo_2010_vert.jpg" style="float:right;" height="200">We are excited to be sponsoring our first cycling team, Sonic Boom Racing p/b Lucky Pie Pizza & Taphouse. SBR is a community cycling team focused on developing Colorado riders. SBR team members range from competitive riders at the junior level to riders at the National Racing Calendar pro level, and has a place for riders at every stage of racing. SBR is committed to racing clean, promoting the sport of cycling, and mentoring young, talented cyclist.
+<img src="/images/post_images/SonicBoom_Logo_2010_vert.jpg" style="float:right;" height="200">We are excited to be sponsoring our first cycling team, Sonic Boom Racing p/b Lucky Pie Pizza & Taphouse. SBR is a community cycling team focused on developing Colorado riders. SBR team members range from competitive riders at the junior level to riders at the National Racing Calendar pro level, and has a place for riders at every stage of racing. SBR is committed to racing clean, promoting the sport of cycling, and mentoring young, talented cyclists.
 
 This sponsorship is a great opportunity and we believe that it will help both Ride With GPS and Sonic Boom grow. It will allow us to work closely with a group of competitive cyclists who can test the site features in ways they really haven't been tested before. This will help us create more functional and appealing features for groups, clubs, teams, and events.
 
