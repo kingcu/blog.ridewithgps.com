@@ -2,7 +2,7 @@
 layout: post
 title: "Challenge Recap: Pre-Resolution"
 ---
-The Pre-resolution Challenge finished up early last week and we've been able to sort through all the results. Despite the short, cold, holiday filled days everyone who participated in the Pre-resolution Challenge really put the rubber to the road. We are once again impressed by how much people are able to get out on their bikes, and we have some cool numbers to share with you from this challenge. 
+The <a href="http://ridewithgps.com/competitions/Pre-resolution-challenge/overview"><b>Pre-resolution Challenge</b></a> finished up early last week and we've been able to sort through all the results. Despite the short, cold, holiday filled days everyone who participated in the Pre-resolution Challenge really put the rubber to the road. We are once again impressed by how much people are able to get out on their bikes, and we have some cool numbers to share with you from this challenge. 
 
 <table>
 	<tr>
