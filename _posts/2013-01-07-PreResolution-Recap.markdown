@@ -2,11 +2,11 @@
 layout: post
 title: "Challenge Recap: Pre-Resolution"
 ---
-The Pre-resolution Challenge finished up early last week and we've been able to sort through all the results. Dispite the short, cold, holiday filled days everyone who participated in the Pre-resolution challenge really put the rubber to the road. We are once again impressed by how much people are able to get out on their bikes, and we have some cool numbers to share with you from this challenge. 
+The Pre-resolution Challenge finished up early last week and we've been able to sort through all the results. Despite the short, cold, holiday filled days everyone who participated in the Pre-resolution Challenge really put the rubber to the road. We are once again impressed by how much people are able to get out on their bikes, and we have some cool numbers to share with you from this challenge. 
 
 <table>
 	<tr>
-		<td>Challenge</td>
+		<td><b>Challenge</b></td>
 		<td>Participants</td>
 		<td>Completed Challenge</td>
 		<td>Total Hours</td>
@@ -15,16 +15,16 @@ The Pre-resolution Challenge finished up early last week and we've been able to 
 		<td>Total Rides</td>
 	</tr>
 	<tr>
-		<td>10 Hour</td>
+		<td><b>10 Hour</b></td>
 		<td>160</td>
 		<td>70</td>
 		<td>1,536</td>
 		<td>17,760</td>
 		<td>698,029</td>
-		<td>9,22</td>
+		<td>922</td>
 	</tr>
 	<tr>
-		<td>20 Hour</td>
+		<td><b>20 Hour</b></td>
 		<td>151</td>
 		<td>68</td>
 		<td>3,734</td>
@@ -33,7 +33,7 @@ The Pre-resolution Challenge finished up early last week and we've been able to 
 		<td>1,385</td>
 	</tr>
 	<tr>
-		<td>35 Hour</td>
+		<td><b>35 Hour</b></td>
 		<td>80</td>
 		<td>39</td>
 		<td>2,830</td>
@@ -42,7 +42,7 @@ The Pre-resolution Challenge finished up early last week and we've been able to 
 		<td>979</td>
 	</tr>
 	<tr>
-		<td>Grand Totals</td>
+		<td><b>Grand Totals</b></td>
 		<td>391</td>
 		<td>177</td>
 		<td>8,100</td>
@@ -56,17 +56,17 @@ What a way to ride into the new year!
 
 The honorable mentions from each tier of the challenge are:
 
-- Dean: Most miles in 10hr Challenge with 10 rides, 308.8mi, 17.9hrs
-- ErtKing: Fewest Rides to 20hrs with 5 rides, 298.1mi, 23.6hrs
-- bluefleet: 39 rides, 1121.5mi, 72.4hrs
+- <b>Dean</b>: Most miles in 10hr Challenge with 10 rides, 308.8mi, 17.9hrs
+- <b>ErtKing</b>: Fewest Rides to 20hrs with 5 rides, 298.1mi, 23.6hrs
+- <b>bluefleet</b>: Most hours overall with 39 rides, 1121.5mi, 72.4hrs! Wow!
 
 The lottery winners from each tier of the challenge are:
 
 <table>
 	<tr>
-		<td>10hr Challenge</td>
-		<td>20hrs Challenge</td>
-		<td>35hrs Challenge</td>
+		<td><b>10hr Challenge</b></td>
+		<td><b>20hrs Challenge</b></td>
+		<td><b>35hrs Challenge</b></td>
 	</tr>
 	<tr>
 		<td>Teresa Filleman</td>
