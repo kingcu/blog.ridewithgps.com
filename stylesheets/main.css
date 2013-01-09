@@ -73,3 +73,16 @@ p, ul {
 img.postimage {
   border:1px solid #000;
 }
+
+#post-pagination {
+  margin-bottom: 12px;
+}
+#post-pagination .disabled {
+  color: #ccc;
+}
+#post-pagination p,ul,li {
+  display: inline;
+}
+#post-pagination .current-page {
+  color: #ccc;
+}
