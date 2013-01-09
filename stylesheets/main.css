@@ -80,7 +80,7 @@ img.postimage {
 #post-pagination .disabled {
   color: #ccc;
 }
-#post-pagination p,ul,li {
+#post-pagination p,#post-pagination ul,#post-pagination li {
   display: inline;
 }
 #post-pagination .current-page {
