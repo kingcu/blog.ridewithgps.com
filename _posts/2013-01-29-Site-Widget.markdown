@@ -2,7 +2,7 @@
 layout: post
 title: "Site Feature: Activity Widget"
 ---
-This week we our proud to release an all new Ride With GPS feature, which is the <a href="http://ridewithgps.com/widgets/new?utm_source=Blog&utm_medium=WidgetPost&utm_campaign=WidgetPost">Activity Widget</a>. Members can now embed this widget to display their latest activity for their personal account or for a group they are part of. The Activity Widget is customizable, and provides multip options for how much data is displayed. 
+This week we our proud to release an all new Ride With GPS feature, which is the <a href="http://ridewithgps.com/widgets/new?utm_source=Blog&utm_medium=WidgetPost&utm_campaign=WidgetPost">Activity Widget</a>. Members can now embed this widget to display their latest activity for their personal account or for a group they are part of. The Activity Widget is customizable, and provides multiple options for how much data is displayed. 
 
 How to setup your <a href="http://ridewithgps.com/widgets/new?utm_source=Blog&utm_medium=WidgetPost&utm_campaign=WidgetPost">Activity Widget</a>:
 
@@ -28,7 +28,7 @@ Configure Your Widget Notes:
 
 <img class="postimage" src="/images/post_images/01292013_3.png">
 
-**Step 5.** Once your happy with how the widget looks you can copy & past the code in section 3, which is below the preview on the right-hand side of the page.
+**Step 5.** Once you're happy with how the widget looks you can copy & paste the code in section 3, which is below the preview on the right-hand side of the page.
 
 <img class="postimage" src="/images/post_images/01292013_4.png">
 
@@ -38,6 +38,6 @@ We think that this feature will prove to be valuable for use on personal website
 
 Get started setting up your <a href="http://ridewithgps.com/widgets/new?utm_source=Blog&utm_medium=WidgetPost&utm_campaign=WidgetPost">Activity Widget Now</a>!
 
-Additionally, the work that we have put into this feature has allowed us to turn our attention to our map embed features, and we will be looking to update those embeds very soon. Hint: multiple route embed for personal, groups, and event accounts.
+Additionally, the work that we have put into this feature has allowed us to turn our attention to our map embed features, and we will be looking to update those embeds very soon. Hint: multiple route embed for personal, group, and event accounts.
 
 If you have any questions about *{{ page.title }}* email us at <a href="mailto:info@ridewithgps.com">info@ridewithgps.com</a>
