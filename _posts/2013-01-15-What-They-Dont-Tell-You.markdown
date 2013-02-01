@@ -2,7 +2,7 @@
 layout: post
 title: "What they don't tell you when you decide to become a bike racer"
 ---
-One indisputable fact of racing is that someone always wins, and in the immortal words of Ricky Bobby, "If you aint first, your last". This heavily influences new racers by allowing them this preconceived notion they can win bike races because they've watched them and think, "I can do that!" It's true; some people can do that. However, the majority of people who race bikes have never won a race and probably never will. They've come to terms with that, and still go out to the battle field because it's what they love to do, and because there's still a chance they could win!
+One indisputable fact of racing is that someone always wins, and in the immortal words of Ricky Bobby, "If you ain't first, yer last".  New racers can be heavily influenced by the preconceived notion they can win bike races solely because they've watched them and thought, "I can do that!" It's true that some people can in fact do that. However, the majority of people who race bikes have never won a race and probably never will. They've come to terms with that truth, but still go out to the battlefield because it's what they love to do, and because there's always a chance they could win!
 
 There are a lot of things about racing that people don't tell you when you decide to get into the sport. One of these helpful tips is that you'll finish dead last more times than you will win. Which is to say, you will do well to ever win a race. Finishing off the back, in the groupetto, or DFL is a very real part of bike racing. It's something you have to either learn how to cope with, handle, or embrace, or you won't be a good racer.
 

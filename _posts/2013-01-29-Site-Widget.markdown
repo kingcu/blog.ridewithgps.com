@@ -2,7 +2,7 @@
 layout: post
 title: "Site Feature: Activity Widget"
 ---
-This week we our proud to release an all new Ride With GPS feature, which is the <a href="http://ridewithgps.com/widgets/new?utm_source=Blog&utm_medium=WidgetPost&utm_campaign=WidgetPost">Activity Widget</a>. Members can now embed this widget to display their latest activity for their personal account or for a group they are part of. The Activity Widget is customizable, and provides multiple options for how much data is displayed. 
+We are proud to release an all new Ride With GPS feature, the <a href="http://ridewithgps.com/widgets/new?utm_source=Blog&utm_medium=WidgetPost&utm_campaign=WidgetPost">Activity Widget</a>! Members can now embed this widget in their own site to display a list of their recent activities for either their personal account, or a group they are a part of. Optionally, the widget can also include weekly, monthly, and year to date totals. The Activity Widget is customizable with multiple options for how much data can be displayed.
 
 How to setup your <a href="http://ridewithgps.com/widgets/new?utm_source=Blog&utm_medium=WidgetPost&utm_campaign=WidgetPost">Activity Widget</a>:
 

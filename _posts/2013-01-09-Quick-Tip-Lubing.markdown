@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Tip: The when, how, and what for lubing"
 ---
-Last week I wrote a quick tip post on how to wash your bike when you don't have a hose. The post sparked some great conversation about the importance of lubing your bike. Due to the conversation I thought it would be a good opportunity to do a follow up piece on that topic. I thought that it would be good to get a professional opinion on the topic, so I reached out to a long time bike mechanic and friend, Thom Kneeland, to get his input. 
+Last week I wrote a quick tip post on <a href="http://blog.ridewithgps.com/blog/2013/01/01/Quick-Tip-Pressure-Washer">how to wash your bike</a> when you don't have a hose. The post sparked some great conversation about the importance of lubing your bike.  I thought this would be a great opportunity for a follow up piece, and decided to shed some light on the topic by getting a professional opinion from a long time bike mechanic and friend, Thom Kneeland.
 
 Here's what he had to say on the topic:
 
