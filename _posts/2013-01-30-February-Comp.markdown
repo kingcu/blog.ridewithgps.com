@@ -2,7 +2,7 @@
 layout: post
 title: "Cold-as-Hell February Challenge!"
 ---
-<img width="300" style="float:right" src="/images/post_images/feb_comp.jpg">
+<img width="300" style="float:right" src="/images/post_images/feb_comp.JPG">
 It's February which means that spring is right around the corner. We're putting on a little winter base miles competition to help you achieve your fitness goals. This challenge will help you establish a solid base of fitness for a full spring of riding. During the comp post your rides to twitter and use the hashtag #coldmiles. Also, we'd love to see any photos you take while you're out riding, so please post those too.
 
 <a href="http://ridewithgps.com/competitions/Cold-as-hell-challenge?utm_source=Blog&utm_medium=Blog&utm_campaign=ColdAsHellComp"><b>Sign Up Here</b></a> Cold-as-Hell Challenge!
