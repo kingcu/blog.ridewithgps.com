@@ -3,7 +3,7 @@ layout: post
 title: "Cold-as-Hell February Challenge!"
 ---
 <img width="300" style="float:right" src="/images/post_images/feb_comp.JPG">
-February is finally here, which means spring is just around the corner.  Join us in our winter base mile competition for some encouragement in getting your season started early.  By the end of the challenge you will have established a solid base, and calves, to carry you through a spring full of riding.  During the competition you can post your rides to twitter using the hashtag #coldmiles.  Motivate your fellow competitors as well by tweeting the photos you take along the way!  
+February is finally here, which means spring is just around the corner.  Join us in our winter base mile competition for some encouragement in getting your season started early.  By the end of the challenge you will have established a solid base, and calves, to carry you through a spring full of riding.  During the competition you can post your rides to twitter using the hashtag <a href="https://twitter.com/search/realtime?q=%23coldmiles" target="_blank">#coldmiles</a>.  Motivate your fellow competitors as well by tweeting the photos you take along the way!  
 
 <a href="http://ridewithgps.com/competitions/Cold-as-hell-challenge?utm_source=Blog&utm_medium=Blog&utm_campaign=ColdAsHellComp"><b>Sign Up Here</b></a> Cold-as-Hell Challenge!
 
