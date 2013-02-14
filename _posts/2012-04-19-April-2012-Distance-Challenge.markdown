@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "April 2012 Distance Challenge Update"
-category: [competitions]
+category: competitions
 ---
 We have made it through five days of our distance challenge and we have to admit that this first competition has been extremely fun! Not only is it awesome for us to get to see eveyone out riding, but we are also learning a lot about how to make these competition really cool and fun for everyone. 
 
