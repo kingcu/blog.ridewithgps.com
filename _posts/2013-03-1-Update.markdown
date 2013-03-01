@@ -1,0 +1,15 @@
+---
+layout: post
+title: "March 1st Update"
+---
+The first couple months of 2013 have been especially busy for us here at Ride With GPS HQ. We've been focused on launching a lot of new features, as well as updating and resolving some outstanding issues. In February we turned our attention to the Route Planner. 
+
+We'd like to announce that all known route planner bugs have been resolved.
+
+As many of you know, the route planner has had a handful of "difficult to reproduce" issues. Drag this, drop that, add a control point, and now your elevation profile has a huge spike, or your route is disconnected, or worse.  We are extremely pleased to report that after putting our heads together and taking a step back, we were able to fix some fundamental flaws with the route planner which allowed us to resolve every bug we were aware of. For all the details, check out the notes under 2.13.0 in our <a href="http://ridewithgps.com/changelog/?utm_source=BlogPost&utm_medium=BlogPost&utm_campaign=SiteUpdate">changelog</a> 
+
+We believe the route planner is rock solid now, and want it to stay that way. Can you still break the route planner? Let us know how to reproduce the bug and we'll send you a Ride with GPS water bottle to keep you hydrated on your next ride - just mention this newsletter.
+
+As we look ahead to March, we will be focusing on improving the <a href="http://ridewithgps.com/activities/?utm_source=BlogPost&utm_medium=BlogPost&utm_campaign=SiteUpdate">Activity Center</a> for Premium members, bring more features to <a href="http://ridewithgps.com/groups/?utm_source=BlogPost&utm_medium=BlogPost&utm_campaign=SiteUpdate">Groups</a>, and more features to <a href="http://ridewithgps.com/events/?utm_source=BlogPost&utm_medium=BlogPost&utm_campaign=SiteUpdate">Events</a>. 
+
+We invite you to comment below regarding *{{ page.title }}*.
