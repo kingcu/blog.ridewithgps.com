@@ -86,3 +86,16 @@ img.postimage {
 #post-pagination .current-page {
   color: #ccc;
 }
+
+.flickr-img-box {
+  margin: 2px;
+  float: left;
+}
+.flickr-img-box img {
+  height: 180px;
+  -ms-interpolation-mode: bicubic;
+}
+
+.flickr-photoset { 
+  clear: both;
+}

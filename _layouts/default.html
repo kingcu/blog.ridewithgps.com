@@ -74,6 +74,38 @@ title: Ride with GPS Blog
     </script>
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript">
+function flickrizer($el, photosetId) {
+  var apiKey = "60d192bb5d2d100c53aaad6f0438cf8f";
+  $.getJSON("http://api.flickr.com/services/rest/?jsoncallback=?", {
+    format: 'json',
+    api_key: apiKey,
+    method: 'flickr.photosets.getPhotos',
+    photoset_id: photosetId
+  }, function(data) {
+    $.each(data.photoset.photo, function(i,photo) {
+      var imgBaseUrl = "http://farm" + photo.farm + ".static.flickr.com/" + photo.server + "/" + photo.id + "_" + photo.secret + "_",
+        imgSmallUrl = imgBaseUrl + "m.jpg",
+        imgLargeUrl = imgBaseUrl + "b.jpg",
+        $box = $("<div class='flickr-img-box'></div>");
+
+      $("<a href='" + imgLargeUrl + "' class='colorbox'></a>").append(
+        $("<img/>").attr("src", imgSmallUrl)
+      ).appendTo($box);
+      $el.append($box);
+      $el.after("<div style='clear:left;'></div>");
+    });
+    $el.find('.colorbox').colorbox();
+  });
+}
+$(function() {
+  $('.flickr-photoset').each(function() {
+    var id = $(this).attr('data-id');
+    console.log(id);
+    flickrizer($(this), id);
+  });
+});
+</script>
 <script src="http://ridewithgps.com/javascripts/colorbox.js"></script>
 <link rel="stylesheet" href="http://ridewithgps.com/stylesheets/colorbox.css" />
 <script>
