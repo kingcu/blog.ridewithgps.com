@@ -23,7 +23,6 @@ p, ul {
   line-height: 1.5em;
 }
 
-
 #header {
   background: url(/images/header.png) no-repeat #363636;
   height: 85px;
@@ -89,7 +88,10 @@ img.postimage {
 
 .flickr-img-box {
   margin: 2px;
+  width: 226px;
+  overflow: hidden;
   float: left;
+  text-align: center;
 }
 .flickr-img-box img {
   height: 180px;
