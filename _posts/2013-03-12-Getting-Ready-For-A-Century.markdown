@@ -2,7 +2,7 @@
 layout: post
 title: "Getting Ready For A Century"
 ---
-Day light savings is here, the days are getting longer, and the rides are starting to stretch out. With spring rapidly approaching we are creeping close to event season. A fair of amount of you will be doing some sort of cycling event this summer, so we reached out to our friend Thom Kneeland again, and asked him for his advice on preparing for a century. Here's his top 8 tips on making certain you and your bike are ready for the challenge..
+Day light savings is here, the days are getting longer, and the rides are starting to stretch out. With spring rapidly approaching we are creeping close to event season. A fair of amount of you will be doing some sort of cycling event this summer, so we reached out to our friend Thom Kneeland to ask for his advice on preparing for a century. Here's his top 8 tips on making certain you and your bike are ready for the challenge.
 
 <blockquote>
 8. Choose the century wisely. You’re going to want to check out the route to make certain you’re up for the task at hand. A 100 miles through the heart of the Rocky Mountains is certainly majestic, but if you are a flatlander, you might not be prepared for the amount of climbing that there will be. A pan flat century has it’s own difficulties. You are going to be pedaling the entire time. The flip side to climbing hill is that at some point you get to come down them and that means coasting. Not much coasting when the biggest elevation gain and loss is a freeway overpass. Plus, flat rides are often affected by winds and if you have to do the last 50 miles of a century into a headwind, it’s like climbing the invisible hill that never ends.
