@@ -2,8 +2,8 @@
 layout: post
 title: "I Could Have Gone Harder"
 ---
-After last weeks post on <a href="http://blog.ridewithgps.com/blog/2013/03/12/Getting-Ready-For-A-Century/">Getting Ready For A Century</a>, I decided to talk to a friend of mine who is a coach about mentally preparring for an event. Below is what he had to say.
-<blockquote>
+<i>After last weeks post on <a href="http://blog.ridewithgps.com/blog/2013/03/12/Getting-Ready-For-A-Century/">Getting Ready For A Century</a>, I decided to talk to a friend of mine who is a coach about mentally preparing for an event. Below is what he had to say.</i>
+
 About a month ago American super runner Galen Rupp set the second fastest American time in the indoor mile at 3:50:92, a second off of Bernard Lagat's record. This was the fifth fastest mile ever in the world and just last week set the new American indoor 3,000 meter record. Galen, by the way, also won the silver medal in the 10,000 meters in London last summer. You're probably asking what this has to do with cycling, I'll get to that. 
 
 I've been racing primarily triathlons and running races the past 9 years with an occasional bike race lightly sprinkled in, both here in the states and in Italy. In those years of racing, there have been several standout events where I can vividly remember being in absolute physical agony trying to beat someone to the finish or meet a personal goal. In my case, more often than not, this seems to happen in the final miles of the run. Without getting into a long explanation of why, I'll just say that I'm proportionately better on the bike than the swim or run. Trying to maximize my performance with a power meter against fellow age group three-sport competitors on the bike is what I usually aim for. 
@@ -26,7 +26,6 @@ After your next key event or breakthrough workout, take some time to reflect and
 <img style="float:right; margin:5px;" src="/images/headshots/Marco_Hintz.jpg">
 
 If you really want to feel the energy of Rupp's run and let it push you in select moments of mindful discomfort: <a href="http://www.flotrack.org/coverage/250010-2013-BU-Terrier-Invitational/video/686072-Mile-H1-Rupp-American-Record-Attempt">watch the race here</a>.
-</blockquote>
 
 <b>A little bit about Marco</b>
 
