@@ -23,7 +23,7 @@ Two people that have sparked my interest in this area, are the sometimes controv
 Back to Galen Rupp. He didn't believe he was ready for the indoor mile, as his coach Alberto Salazar told him to enter only three weeks prior. In his post race interview he was asked about how it went. During the final laps he was unable to hear his coach give him his splits due to the fact of the insanely loud cheers from the crowd, nor did he realize how close he was to the record. He was both elated and surprised at the finish. Was the atmosphere such that it played a distracting role in Galen's amazing performance for his brain to override his physical pain a bit? You be the judge. 
 
 After your next key event or breakthrough workout, take some time to reflect and ask yourself if you could have gone harder; such as my experience racing against my friend, Thomas Voeckler powering his way to hold on to the yellow jersey, Rupp's super fast mile. Was the risk of more discomfort worth the level of reward? This is individual, but I feel once you learn more about the role of the mind in sport performance the outcomes will be much more satisfying and interesting.
-<img style="float:right; margin:5px;" src="/images/headshots/Marco_Hintz.jpg">
+<img style="float:right; margin:5px;" src="/images/headshots/Marco_Hintz.JPG">
 
 If you really want to feel the energy of Rupp's run and let it push you in select moments of mindful discomfort: <a href="http://www.flotrack.org/coverage/250010-2013-BU-Terrier-Invitational/video/686072-Mile-H1-Rupp-American-Record-Attempt">watch the race here</a>.
 
