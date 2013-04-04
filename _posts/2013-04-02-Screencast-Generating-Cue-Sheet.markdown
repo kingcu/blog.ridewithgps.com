@@ -14,7 +14,7 @@ Step-by-Step Instructions on how to create a cue sheet from a pre-existing trip.
  5. Grab and Snap the route back into place between Control Points.  Cues will be generated for the section being 'snapped' to the road.
  7. Save
 
- Notes: If pay close attention to where the route wonders of the road when snapping the route back into place. The more you zoom in the more control you'll have, and as always be careful to not click on intersections.
+ Tips: The more you zoom in the more control you'll have, and as always be careful to not click on intersections.
 
 
 We invite you to comment below regarding *{{ page.title }}*.
