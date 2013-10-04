@@ -34,7 +34,7 @@ The skills that we typically attribute to trials riding are a big help when mane
 The key to Cyclocross is a great attitude. Things are going to go wrong, you are going to get dirty and in many cases you will spend some time rolling in the mud. The more you smile and roll with the punches, the more success you are going to have. Happy barrier hopping!
 
 <h2>Author Bio</h2>
-<img src="/images/headshots/GrantHolicky.jpg" align="left" margin-right="2px" width="100" ><a href="http://apexcoachingco.com/coaches/grant-holicky/">Grant Holicky</a> is a coach for <a href="http://apexcoachingco.com/"></a>APEX Coacing</a> in Boulder, CO and an avid 'crosser on the Evol Elite Racing team. You can follow Grant on twitter at <a href="https://twitter.com/grantholicky">@grantholicky</a>. He is currently the Director of Aquatics at Rallysport Health and Fitness and is head coach of Rallysport Aquatics (RACE) in Boulder, CO.  He is a retired professional triathlete and ASCA Level IV swim coach and has coached multiple Olympic Trials swimmers and a national champion.
+<img src="/images/headshots/GrantHolicky.jpg" align="left" margin-right="2px" width="100" ><a href="http://apexcoachingco.com/coaches/grant-holicky/">Grant Holicky</a> is a coach for <a href="http://apexcoachingco.com/"></a>APEX Coaching</a> in Boulder, CO and an avid 'crosser on the Evol Elite Racing team. You can follow Grant on twitter at <a href="https://twitter.com/grantholicky">@grantholicky</a>. He is currently the Director of Aquatics at Rallysport Health and Fitness and is head coach of Rallysport Aquatics (RACE) in Boulder, CO.  He is a retired professional triathlete and ASCA Level IV swim coach and has coached multiple Olympic Trials swimmers and a national champion.
 
 <br>
 ************
