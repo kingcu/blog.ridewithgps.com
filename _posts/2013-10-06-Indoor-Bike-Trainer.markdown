@@ -7,16 +7,17 @@ There is a strong opinion that is shared by some cyclists, and that is that indo
 Because fall is rapidly approaching and the inevitability of winter is looming, we’ve been finding ourselves engaged in conversation about our upcoming “trainer season.” It sparked a good dialog and we thought we’d share some of it with all of you. 
 
 <h2>First, let’s tackle why riding the trainer is a good thing:</h2>
+
 1. Riding the trainer a couple times a week allows you the ability to maintain some of your fitness through the winter. By not losing all your fitness through the winter months you have less of a build up in the spring where you’re just working on regaining what you had the last summer. This allows for you to have more enjoyable rides earlier in the year!
 
-2. Riding the trainer when the weather is really bad can be better than a road ride because it takes less time. When you add up the facts that you hopping on the trainer doesn’t take as much time to pre or post ride (i.e. you don’t have to spend 20 minutes putting layers on and off), with the fact that you should reduce your ride time by ~25% from the road to the trainer you get a lot more return for you time. 
+2. Riding the trainer when the weather is really bad can be better than a road ride because it takes less time. If you ride the trainer when the weather is bad you don’t have to spend a ridiculous amount of time putting layers on and off. Additionally, with the fact that you should reduce your ride time by ~25% from the road to the trainer you get a lot more return for you time. 
 
-3. Lastly, we have found that riding the trainer is easier when you motivate yourself to use when you watch a show or listen to an audiobook instead of getting rained on. The key with this is to find something that you enjoy, will help pass the time, and maybe isn’t something you’d get to keep up on normally. Some of the types of shows we really like to watch are: sci-fi movies, sports center, old bike races that are on Youtube, and any TV series because there’s always more to watch.
+3. Riding the trainer is better then getting rained on because you get to watching a movie, favorite TV show, or listen to an audio-book. The key with this is to find something that you enjoy, will help pass the time, and maybe isn’t something you’d get to keep up on normally. Some of the types of shows we really like to watch are: sci-fi movies, sports center, old bike races that are on Youtube, and any TV series because there’s always more to watch.
 
 <h2>So what do we use?</h2>
 Cullen and Zack both have Kurt Kinetic Trainers. Cullen got his because a friend sold it to him used for a bargain price of $120 and he knew it was well-reviewed. Both of them really like their trainer and they recommend it to others because it's fluid-filled and high quality, and supposedly has the best resistance curve unless you spend real serious $$$.
 
-Travis has a Trek Mag by CycleOps trainer that he also picked up used. It’s not fluid, but it has served him well for several years. He also has a set of rollers that he uses in addition and that helps prevent things from getting stale. 
+I have a Trek Mag by CycleOps trainer that he also picked up used. It’s not fluid, but it has served him well for several years. He also has a set of rollers that he uses in addition and that helps prevent things from getting stale. 
 
 <img class="postimage" src="/images/post_images/travis-trainer.jpg" alt="Travis's Trek Mag Cyclops Indoor Bike Trainer"/>
 
