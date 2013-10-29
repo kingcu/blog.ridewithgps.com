@@ -2,7 +2,7 @@
 layout: post
 title: "Winter Cycling - How to Prepare Your Body for a Cold Ride"
 ---
-*As we ease our way into November the days are getting significantly shorter and colder! We focus a lot on our bikes but we thought it would be a good time to turn out attention to our bodies, and specifically how we can best take care of them through the cold months. Our friend Mattew Gibble, Massage Therapist and Owner of <a href="http://www.rainingfaith.com/?utm_source=rwgps&utm_medium=guest-post&utm_campaign=winter-riding">Raining Faith Massage</a> has graciously given all of us some great info. Here's his advice:*
+*As we ease our way into November the days are getting shorter and colder! As riders who love gear, we tend to focus heavily on our bikes.  To counter this, we decided it's a good time to turn our attention to taking care of our bodies through the cold months. Our friend Mattew Gibble, Massage Therapist and Owner of <a href="http://www.rainingfaith.com/?utm_source=rwgps&utm_medium=guest-post&utm_campaign=winter-riding">Raining Faith Massage</a> has graciously shared some tips. Here's his advice:*
 
 One of the more challenging aspects of winter riding is adequately preparing for a cold weather ride. In stark contrast to the summer months, getting properly dressed and warmed up for a cold ride takes extra time and consideration. Here are some helpful tips that will make transitioning from your house to the open road easier and safer.
 
