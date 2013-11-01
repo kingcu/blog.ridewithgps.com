@@ -28,7 +28,7 @@ To finish off, instead of just plopping down on the couch, I like to do a little
 
 Incorporating some good habits like these into your routine will increase your chances of staying healthy and injury-free during the colder months.
 
-<h2>Mathew Gibble's Bio</h2>
+<h2>Matthew Gibble's Bio</h2>
 <img src="/images/headshots/matt-gibble.jpg" align="left" margin-right="2px" width="100" >In June of 2002 Matthew received an Associate Degree in Occupational Studies and his education consists of over 1300 hours of supervised training and direction at the Boulder College of Massage Therapy, (BCMT), located in Boulder, Colorado. As well as being an honors graduate from BCMT he is a current member of the American Massage Therapy Association, (AMTA).
 
 Matthew’s background before his education entailed nine years as an elite amateur cyclist and two years as the manager of an elite amateur cycling team. He culminated his association with cycling by overseeing four of the team’s rider’s make the 1992 Olympic team.
