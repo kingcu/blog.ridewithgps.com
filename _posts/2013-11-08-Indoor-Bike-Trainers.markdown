@@ -4,9 +4,12 @@ title: "Riding Indoors - Getting Started with Stationary Trainers"
 ---
 <h2>Why Ride Indoors?</h2>
 
-Having a quality indoor bicycle trainer at your disposal is an excellent way to maintain your fitness levels through winter while catching up on your favorite show or audiobook.  Why wait until spring to get into decent riding shape?  Instead, maintain your base through the rainy months and be ready for some great riding early on.  Here's some information that will help you pick the indoor bike trainer that best fits you.
+<img src="/images/kurt_kinetic.jpg" style="width:200px;float:left;margin-right:10px;"/>
+Having access to an indoor bicycle trainer is a great way to maintain your fitness through winter while catching up on your favorite show or audiobook.  Why wait until spring to get into decent riding shape?  Instead, ride in comfort through the rainy months and be ready for some great adventures early next year.  Here's some info that will help you pick the indoor bike trainer that best fits you.
 
-Stationary bike trainers come in four basic types, ignoring the fancy computer controlled models.
+<br>
+
+<h3>Stationary bike trainers come in four basic types, ignoring the fancy computer controlled models.</h3>
 
 1. The basic magnetic resistance line.  These trainers are cheap, ranging from $100 to $200 new.  You can find a high quality magnetic resistance trainer, however the bulk of them are cheap and fairly disposable.  They offer a flat resistance curve, so unlike a real road ride, the effort required does not increase as you increase speed.  These units can be quiet, but are very unsatisfactory to the seasoned rider looking for a realistic feel.
 
